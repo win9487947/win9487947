@@ -42,7 +42,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats(從來沒在管這個，但看到別人有放我也想放)
 ![Jimmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=win9487947&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=win9487947&layout=compact&theme=radical)
 
@@ -50,5 +50,4 @@
 
 ## 📫 Connect
 - GitHub: [win9487947](https://github.com/win9487947)
-- Email: yourmail@example.com
-- Twitter / X: @yourhandle
+- Email: win9487947@gmail.com
