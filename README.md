@@ -51,3 +51,4 @@
 ## 📫 Connect
 - GitHub: [win9487947](https://github.com/win9487947)
 - Email: win9487947@gmail.com
+- 個人簡介: https://win9487947.github.io/tnmnews/jimmy-secret.html
